@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kimar, a software developer and CS student from Zimbabwe, diving deep into AI/ML and IoT while building systems that actually matter.<br>My background spans networking, cybersecurity, and electronics, which shapes how I think about software, from the hardware up. <br>Co-founding Creativity & Technological Access and always open to interesting collaborations. <br>Always learning, always building. 🚀
+I'm Kimar, a software developer and CS student from Zimbabwe, diving deep into AI/ML and IoT while building systems that actually matter.<br>My background spans networking, cybersecurity, and electronics, which shapes how I think about software, from the hardware up. <br>Co-founding CTA and always open to interesting collaborations. <br>Always learning, always building. 🚀
 
 
 ## 🌐 Socials:
